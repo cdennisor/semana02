@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="semana02.View.Home.VHPrincipal">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="btn_style" TargetType="Button">
+                <Setter Property="CornerRadius" Value="60"/>
+                <Setter Property="Margin" Value="80,0"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="SENATI"
+                   FontAttributes="Bold"
+                   FontSize="30"
+                HorizontalOptions="Center"/>
+            <Label Text="Bienvenidos a Seminario II a la semama 2, aquí todos somos #halaMadrid"
+                   HorizontalTextAlignment="Center"/>
+            <Button Text="Iniciar Sesión"
+                    BackgroundColor="Blue"
+                    CornerRadius="60"
+                    TextColor="#fff"
+                    Margin="80,0"/>
+            <Button Text="Registrarse" Style="{StaticResource btn_style}"/>
+            <Label Text="Olvidó su contraseña?"
+                   HorizontalOptions="Center"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
