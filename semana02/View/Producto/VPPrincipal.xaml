@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="semana02.View.Producto.VPPrincipal"
+             xmlns:producto="clr-namespace:semana02.View.Producto"
+             Title="Productos">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame CornerRadius="50" Padding="5" Margin="30,0" HasShadow="False">
+                <StackLayout>
+                    <Entry Placeholder="Buscar..."/>
+                </StackLayout>
+            </Frame>
+            <Grid ColumnDefinitions="*,*,*" Margin="10">
+                <Button Grid.Column="0" Text="Hotel" CornerRadius="50"
+                        Margin="10,20"
+                        BackgroundColor="ForestGreen"
+                        TextColor="#fff"/>
+                <Button Grid.Column="1" Text="Hotel" CornerRadius="50"
+                        Margin="10,20"
+                        BackgroundColor="LightGray"/>
+                <Button Grid.Column="2" Text="Hotel" CornerRadius="50"
+                        Margin="10,20"
+                        BackgroundColor="LightGray"/>
+            </Grid>
+            <Frame Margin="50,0" CornerRadius="50" HeightRequest="300" Padding="0">
+                <Image Aspect="Fill" Source="https://i.scdn.co/image/ab67616d0000b2734219f4f48a27b891d4f8295b"/>
+            </Frame>
+            <Frame Margin="50,20" CornerRadius="50" HeightRequest="300" Padding="0">
+                <StackLayout Padding="20">
+                    <Button x:Name="btnSalir" Clicked="btnSalir_Clicked" Text="Cerrar Sesión"
+                            Style="{StaticResource btnDanger}"/>
+                </StackLayout>
+            </Frame>
+            <!--<producto:VPHeader />
+            <producto:VPBody />
+            <producto:VPFooter/>-->
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

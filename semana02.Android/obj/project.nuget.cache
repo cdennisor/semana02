@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dGwo3KL2NOg=",
+  "dgSpecHash": "KDCvD6fxj5U=",
   "success": true,
   "projectFilePath": "D:\\XAMARIN\\semana02\\semana02.Android\\semana02.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALUMNO-ETIA\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ALUMNO-ETIA\\.nuget\\packages\\xam.plugins.forms.imagecircle\\3.0.0.5\\xam.plugins.forms.imagecircle.3.0.0.5.nupkg.sha512",
     "C:\\Users\\ALUMNO-ETIA\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\ALUMNO-ETIA\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
     "C:\\Users\\ALUMNO-ETIA\\.nuget\\packages\\xamarin.androidx.annotation.experimental\\1.1.0.1\\xamarin.androidx.annotation.experimental.1.1.0.1.nupkg.sha512",

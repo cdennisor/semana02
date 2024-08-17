@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "D:\\XAMARIN\\semana02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|d:\\xamarin\\semana02\\semana02\\view\\login\\vlogin.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|solutionrelative:semana02\\view\\login\\vlogin.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|d:\\xamarin\\semana02\\semana02\\view\\producto\\vpprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|solutionrelative:semana02\\view\\producto\\vpprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|d:\\xamarin\\semana02\\semana02\\view\\login\\vlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|solutionrelative:semana02\\view\\login\\vlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|d:\\xamarin\\semana02\\semana02\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|solutionrelative:semana02\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|d:\\xamarin\\semana02\\semana02\\view\\home\\vhfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|solutionrelative:semana02\\view\\home\\vhfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|d:\\xamarin\\semana02\\semana02\\view\\producto\\vpprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|solutionrelative:semana02\\view\\producto\\vpprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|d:\\xamarin\\semana02\\semana02\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|solutionrelative:semana02\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|d:\\xamarin\\semana02\\semana02\\view\\home\\vhprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|solutionrelative:semana02\\view\\home\\vhprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|d:\\xamarin\\semana02\\semana02\\view\\home\\vhfooter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|solutionrelative:semana02\\view\\home\\vhfooter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|d:\\xamarin\\semana02\\semana02\\view\\home\\vhbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{1DF640AC-2A78-49AD-8D86-41115A897056}|semana02\\semana02.csproj|solutionrelative:semana02\\view\\home\\vhbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +50,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VLogin.xaml.cs",
+              "DocumentMoniker": "D:\\XAMARIN\\semana02\\semana02\\View\\Login\\VLogin.xaml.cs",
+              "RelativeDocumentMoniker": "semana02\\View\\Login\\VLogin.xaml.cs",
+              "ToolTip": "D:\\XAMARIN\\semana02\\semana02\\View\\Login\\VLogin.xaml.cs",
+              "RelativeToolTip": "semana02\\View\\Login\\VLogin.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:54:50.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "VLogin.xaml",
+              "DocumentMoniker": "D:\\XAMARIN\\semana02\\semana02\\View\\Login\\VLogin.xaml",
+              "RelativeDocumentMoniker": "semana02\\View\\Login\\VLogin.xaml",
+              "ToolTip": "D:\\XAMARIN\\semana02\\semana02\\View\\Login\\VLogin.xaml",
+              "RelativeToolTip": "semana02\\View\\Login\\VLogin.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T17:24:00.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VPPrincipal.xaml",
+              "DocumentMoniker": "D:\\XAMARIN\\semana02\\semana02\\View\\Producto\\VPPrincipal.xaml",
+              "RelativeDocumentMoniker": "semana02\\View\\Producto\\VPPrincipal.xaml",
+              "ToolTip": "D:\\XAMARIN\\semana02\\semana02\\View\\Producto\\VPPrincipal.xaml",
+              "RelativeToolTip": "semana02\\View\\Producto\\VPPrincipal.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T16:10:41.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\XAMARIN\\semana02\\semana02\\App.xaml.cs",
+              "RelativeDocumentMoniker": "semana02\\App.xaml.cs",
+              "ToolTip": "D:\\XAMARIN\\semana02\\semana02\\App.xaml.cs",
+              "RelativeToolTip": "semana02\\App.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:05:39.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VHFooter.xaml.cs",
+              "DocumentMoniker": "D:\\XAMARIN\\semana02\\semana02\\View\\Home\\VHFooter.xaml.cs",
+              "RelativeDocumentMoniker": "semana02\\View\\Home\\VHFooter.xaml.cs",
+              "ToolTip": "D:\\XAMARIN\\semana02\\semana02\\View\\Home\\VHFooter.xaml.cs",
+              "RelativeToolTip": "semana02\\View\\Home\\VHFooter.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:01:19.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VHBody.xaml",
+              "DocumentMoniker": "D:\\XAMARIN\\semana02\\semana02\\View\\Home\\VHBody.xaml",
+              "RelativeDocumentMoniker": "semana02\\View\\Home\\VHBody.xaml",
+              "ToolTip": "D:\\XAMARIN\\semana02\\semana02\\View\\Home\\VHBody.xaml",
+              "RelativeToolTip": "semana02\\View\\Home\\VHBody.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T15:39:38.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VHFooter.xaml",
+              "DocumentMoniker": "D:\\XAMARIN\\semana02\\semana02\\View\\Home\\VHFooter.xaml",
+              "RelativeDocumentMoniker": "semana02\\View\\Home\\VHFooter.xaml",
+              "ToolTip": "D:\\XAMARIN\\semana02\\semana02\\View\\Home\\VHFooter.xaml",
+              "RelativeToolTip": "semana02\\View\\Home\\VHFooter.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T15:32:14.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\XAMARIN\\semana02\\semana02\\App.xaml",
+              "RelativeDocumentMoniker": "semana02\\App.xaml",
+              "ToolTip": "D:\\XAMARIN\\semana02\\semana02\\App.xaml",
+              "RelativeToolTip": "semana02\\App.xaml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T14:32:51.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VPPrincipal.xaml.cs",
+              "DocumentMoniker": "D:\\XAMARIN\\semana02\\semana02\\View\\Producto\\VPPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "semana02\\View\\Producto\\VPPrincipal.xaml.cs",
+              "ToolTip": "D:\\XAMARIN\\semana02\\semana02\\View\\Producto\\VPPrincipal.xaml.cs",
+              "RelativeToolTip": "semana02\\View\\Producto\\VPPrincipal.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:16:42.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "VHPrincipal.xaml",
               "DocumentMoniker": "D:\\XAMARIN\\semana02\\semana02\\View\\Home\\VHPrincipal.xaml",
               "RelativeDocumentMoniker": "semana02\\View\\Home\\VHPrincipal.xaml",
               "ToolTip": "D:\\XAMARIN\\semana02\\semana02\\View\\Home\\VHPrincipal.xaml",
               "RelativeToolTip": "semana02\\View\\Home\\VHPrincipal.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-17T14:17:14.545Z",
               "EditorCaption": ""

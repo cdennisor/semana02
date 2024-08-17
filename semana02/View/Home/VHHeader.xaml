@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="semana02.View.Home.VHHeader">
+  <ContentView.Content>
+      <StackLayout>
+            <Label Text="SENATI"
+                   FontAttributes="Bold"
+                   FontSize="30"
+                   HorizontalOptions="Center"
+                   TextColor="#fff"/>
+            <Label Text="Bienvenidos a Seminario II a la semama 2, aquí todos somos #halaMadrid"
+                   HorizontalTextAlignment="Center"
+                   TextColor="#fff"/>
+      </StackLayout>
+  </ContentView.Content>
+</ContentView>

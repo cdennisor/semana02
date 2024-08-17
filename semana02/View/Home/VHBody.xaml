@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="semana02.View.Home.VHBody">
+  <ContentView.Content>
+        <StackLayout>
+            <Image Source="https://i.scdn.co/image/ab67616d0000b2734219f4f48a27b891d4f8295b"/>
+        </StackLayout>
+  </ContentView.Content>
+</ContentView>

@@ -3,6 +3,41 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="semana02.App">
     <Application.Resources>
-
+        <Color x:Key="primary">#27ae60</Color>
+        <Color x:Key="danger">#CD5C5C</Color>
+        <Style x:Key="lblTitle" TargetType="Label">
+            <Setter Property="TextColor" Value="{StaticResource primary}"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="FontSize" Value="40"/>
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="Padding" Value="0,20,0,0"/>
+        </Style>
+        <Style x:Key="btnColor" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="{StaticResource primary}"/>
+            <Setter Property="CornerRadius" Value="20"/>
+            <Setter Property="TextColor" Value="#fff"/>            
+            <Setter Property="FontAttributes" Value="Bold"/>            
+            <Setter Property="Margin" Value="0,30,0,0"/>            
+            <Setter Property="CharacterSpacing" Value="1"/>            
+        </Style>
+        <Style x:Key="btnDanger" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="{StaticResource danger}"/>
+            <Setter Property="CornerRadius" Value="20"/>
+            <Setter Property="TextColor" Value="#fff"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="Margin" Value="0,30,0,0"/>
+            <Setter Property="CharacterSpacing" Value="1"/>
+        </Style>
+        <Style x:Key="btn_style" TargetType="Button">
+            <Setter Property="CornerRadius" Value="60"/>
+            <Setter Property="Margin" Value="80,0"/>
+        </Style>
+        <Style x:Key="lblMensaje" TargetType="Label">
+            <Setter Property="TextColor" Value="{StaticResource danger}"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="FontSize" Value="17"/>
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="Padding" Value="20,10"/>
+        </Style>
     </Application.Resources>
 </Application>
